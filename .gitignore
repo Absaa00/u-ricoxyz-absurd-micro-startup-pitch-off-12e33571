@@ -1,0 +1,10 @@
+# Absurd pitch r1 — local run artefacts only; keep the repo to source.
+node_modules/
+dist/
+out/
+entry.txt
+*.log
+*.tmp
+.DS_Store
+# never commit a local output copy of the pitch
+output/
